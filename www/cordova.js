@@ -1,0 +1,1 @@
+var device = false;

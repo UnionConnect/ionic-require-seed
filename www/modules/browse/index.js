@@ -1,0 +1,6 @@
+define(
+		[
+			'./browse',
+		],
+		function () {}
+);
